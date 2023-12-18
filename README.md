@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSirM3
+- 👋 Hi, I’m @TYRS0
 - 👀 I’m interested in Programing, Games, and anime
 - 🌱 I’m currently learning Python
 
